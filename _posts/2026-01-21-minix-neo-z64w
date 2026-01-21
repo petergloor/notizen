@@ -1,0 +1,22 @@
+---
+layout: post
+title: "MINIX Neo Z64W Computer"
+tags: [hardware]
+---
+# MINIX Neo Z64W - was ist das?
+
+Der _MINIX Neo Z64W_ ist ein Fossil eines Mini-Computers mit Windows 8 (oder Windows 10) in kompakter Form. 
+
+Er ist mit einer Intel Atom Z3735F CPU mit 4 Kernen mit einer Grundtaktfrequenz von 1.33 GHz und einer L2 Cache von 2 MB ausgestattet. Die maximale Speichergrösse (RAM) ist 2 GB, was im Neo Z64W auch genutzt wurde. Dazu kam die integrierte Intel HD GPU. Das alles bot zu seiner Zeit eine erstaunliche Leistungsfähigkeit zu einem niedrigen Preis. MINIX hat es mit dieser Kernkomponente geschafft ein Gerät zu bauen, das problemlos ohne aktiven Lüfter ausgekommen ist.
+
+Der _MINIX Neo Z64W_ bietet intern ein eMMC Speichermodul von 32 GB mit vorinstalliertem Windows. Er verfügt über WLAN und Bluetooth, zwei USB 2.0 Anschlüsse und einem HDMI-Anschluss.
+
+Es gab das gleiche Gerät auch mit vorinstalliertem Android, war aber vermutlich immer an diese eine Android Version gebunden.
+
+# Was ist mit Linux?
+
+Um Linux geht es hier. Ein Versuch meinerseits, Linux anstelle Windows zu installieren, ist damals (ca. 2016?) gescheitert. Das Problem lag vermutlich hauptsächlich darin, dass die EFI Boot Partition wegen des beschränkten Speichers nur 32-bit unterstützte, während der Prozessor selbst 64-bit unterstützt.
+
+# Weiteres
+
+https://linuxgizmos.com/android-4-4-mini-pc-packs-64-bit-quad-core-atom-punch/
